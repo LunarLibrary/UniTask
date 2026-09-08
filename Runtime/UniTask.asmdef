@@ -8,7 +8,9 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "!UNITY_2022_3_OR_NEWER"
+    ],
     "versionDefines": [
         {
             "name": "com.unity.modules.assetbundle",
